@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
